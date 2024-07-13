@@ -1,5 +1,6 @@
 ---
 title: Note taking
+type: Checklist
 ---
 
 ## Structure
