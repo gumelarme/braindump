@@ -5,7 +5,7 @@ refs:
         DSLR - Document Refinement with Sentence-Level Re-ranking and Reconstruction 
         to Enhance Retrieval-Augmented Generation
     author: Taeho Hwang
-    pub_date: 8 Jul 2024
+    pub_date: 2024-07-08
     arxiv: 2407.03627v2 
 
 tags: #llm #rag #ir
