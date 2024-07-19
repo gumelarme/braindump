@@ -4,6 +4,7 @@ title: Podcast Seminggu Jokes Log
 
 ## Episode 48
 - 07:30 Banyak pikiran OoooEaaEooo
+- 12:05 Sudah jompo minumnya puyer... Simba
 
 
 ## Episode 47
