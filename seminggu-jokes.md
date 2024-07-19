@@ -1,5 +1,5 @@
 ---
-title: Podcast Seminggu jokes notes 
+title: Podcast Seminggu Jokes Log
 ---
 
 ## Episode 47
