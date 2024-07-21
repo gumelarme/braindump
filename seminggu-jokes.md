@@ -1,6 +1,8 @@
 # Podcast Seminggu jokes log
 
+
 ## Episode 48
+
 - 07:30 Banyak pikiran OoooEaaEooo
 - 12:05 Sudah jompo minumnya puyer... Simba
 - 23:40 Menampilkan: Tora Sudiro, Asri Welas, ELMO
