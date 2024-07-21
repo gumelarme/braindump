@@ -4,6 +4,8 @@
 - C4 dataset
     :: Colossal Clean Crawled Corpus
 
+## T
+- T5 :: Text-to-Text Transfer Transformer
 
 ## N
 - non parametric memory
