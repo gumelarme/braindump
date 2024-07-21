@@ -1,6 +1,4 @@
----
-title: Podcast Seminggu Jokes Log
----
+# Podcast Seminggu jokes log
 
 ## Episode 48
 - 07:30 Banyak pikiran OoooEaaEooo
