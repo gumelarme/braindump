@@ -1,6 +1,9 @@
----
-title: Glossary
----
+# Glossary
+
+## C
+- C4 dataset
+    :: Colossal Clean Crawled Corpus
+
 
 ## N
 - non parametric memory
