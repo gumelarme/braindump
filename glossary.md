@@ -11,6 +11,7 @@
 
 ## M
 - MLM :: Masked Language Modeling
+- MRC :: Machine Reading Comprehension
 
 ## N
 - NE :: Named Entities
@@ -21,4 +22,7 @@
 
 - NSP :: Next Sentence Prediction
   
+
+## R
+- RE :: Relation Extraction
   
